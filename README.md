@@ -9,13 +9,13 @@ Mở file config.js sửa nội dung theo mẫu
 ```
 const CONFIG = {
     introTitle: 'slow à!',
-    introDesc: `Trái đất vốn lạ thường
-    Mà sao anh cứ đi nhầm đường
+    introDesc: `Anh có điều này muốn nói
+    Em phải trả lời đừng thoát ra nha
     Lạc vào tim anh lẻ loi
     Đằng sau chữ yêu đây là thương`,
-    btnIntro: 'hey girl',
-    title: 'Phải chăng anh đã yêu ngay từ cái nhìn đầu tiên 😙',
-    desc: 'Phải chăng anh đã say ngay từ lúc thấy nụ cười ấy ',
+    btnIntro: 'click vào đây',
+    title: 'Em đồng ý làm bạn gái anh nha 😙',
+    desc: 'Nếu không trả lời or thoát ra là em đã đồng ý rồi nha ',
     btnYes: 'Vẫn cứ là thích anh <33',
     btnNo: 'Không, Anh trai à :3',
     question:'Trên thế giới hơn 7 tỉ người mà sao em lại yêu anh <3',
