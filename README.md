@@ -11,8 +11,6 @@ const CONFIG = {
     introTitle: 'slow à!',
     introDesc: `Anh có điều này muốn nói
     Em phải trả lời đừng thoát ra nha
-    Lạc vào tim anh lẻ loi
-    Đằng sau chữ yêu đây là thương`,
     btnIntro: 'click vào đây',
     title: 'Em đồng ý làm bạn gái anh nha 😙',
     desc: 'Nếu không trả lời or thoát ra là em đã đồng ý rồi nha ',
