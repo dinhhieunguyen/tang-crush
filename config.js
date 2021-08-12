@@ -5,7 +5,7 @@ const CONFIG = {
     Lạc vào tim anh lẽ loi
     Đằng sau chữ yêu đấy là thương`,
     btnIntro: 'Ấn vào đây',
-    title: 'EM CÓ ĐỒNG Ý LÀM BẠN GÁI ANH NHÉ 😙',
+    title: 'EM HÃY ĐỒNG Ý LÀM BẠN GÁI ANH NHÉ 😙',
     desc: 'Em bấm một trong hai câu trả lời đừng thoát vội nhé ',
     btnYes: 'Vẫn cứ là thích anh <33',
     btnNo: 'Không, Anh trai à :3',
